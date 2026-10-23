@@ -1,6 +1,6 @@
 # ModBahasaIndonesiaByHoy
 
-Terjemahan Bahasa Indonesia tidak resmi untuk **Demon Slayer Kimetsu no Yaiba The Hinokami Chronicles 2** (Nintendo Switch, Title ID `0100AD80208A8000`).
+Terjemahan Bahasa Indonesia untuk **Demon Slayer Kimetsu no Yaiba The Hinokami Chronicles 2** (Nintendo Switch, Title ID `0100AD80208A8000`).
 
 Mod ini menimpa teks bahasa **English**, jadi game harus dijalankan dalam bahasa English.
 
